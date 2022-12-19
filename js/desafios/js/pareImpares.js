@@ -3,7 +3,7 @@ let impares = [];
 let pares = [];
 
 for(let i = 0; i < 5; i++){
-    vetor.push(Math.random())
+    vetor.push(gets())
 }
 
 vetor.forEach(number => {
